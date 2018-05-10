@@ -5,7 +5,5 @@ namespace Patterns_AbstractFactory.Cars {
 	
 	public abstract class Car {
 		
-		
-		
 	}
 }
